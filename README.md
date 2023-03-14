@@ -2,10 +2,10 @@
 
 <p align="center">Oi, Tudo bem? 😀 </p>
 <p align="center">
-  Meu nome é <a href="https://www.linkedin.com/in/ramon-dev/">Alisson Ramon</a> estou estudando desenvolvimento web na Cubos Academy
+  Meu nome é <a href="https://www.linkedin.com/in/ramon-dev/">Alisson Ramon</a> sou Desenvolvedor <b>Front-End React.js</b>
 </p>
 
-- 🌱 Estudando React.js / Node.js
+- 🌱 Estudando TypeScript e me aprofundando no React.js
 
 <div align="center">
   <a href="https://github.com/Ramonprog">
