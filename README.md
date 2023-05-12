@@ -5,7 +5,7 @@
   Meu nome é <a href="https://www.linkedin.com/in/ramon-dev/">Alisson Ramon</a> sou Desenvolvedor <b>Front-End React.js</b>
 </p>
 
-- 🌱 Estudando TypeScript e me aprofundando no React.js
+- 🌱 Estudando Redux e performace no React com typeScript
 
 <div align="center">
   <a href="https://github.com/Ramonprog">
@@ -28,7 +28,6 @@
 ## 
 
 <div>
-  <a href="https://www.instagram.com/ramondev1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:programador.ramon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ramon-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
