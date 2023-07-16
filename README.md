@@ -6,6 +6,7 @@
 </p>
 
 - 🌱 Estudando Redux e performace no React com typeScript
+- 🚀 Front-End na BW
 
 <div align="center">
   <a href="https://github.com/Ramonprog">
