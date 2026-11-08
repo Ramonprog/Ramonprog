@@ -29,19 +29,6 @@
 
 </div>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=Ramonprog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"
-  />
-  <img
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonprog&layout=compact&langs_count=7&theme=dracula&hide_border=true&cache_seconds=86400"
-  />
-</div>
-
 ### 📫 Contato
 
 <div>
